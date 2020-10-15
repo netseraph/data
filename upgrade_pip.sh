@@ -1,3 +1,0 @@
-echo ¸üÐÂpip
-python -m pip install --upgrade pip
-
