@@ -1,3 +1,3 @@
-@echo off
+echo ¸üÐÂpip
 python -m pip install --upgrade pip
-pause
+
